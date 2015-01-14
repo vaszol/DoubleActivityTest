@@ -7,5 +7,9 @@
     <string name="title_activity_other">OtherActivity</string>
     <string name="hello">Это первый экран</string>
     <string name="other">Это второй экран</string>
+    <string name="location">Расположение</string>
+    <string name="lat">Широта</string>
+    <string name="lon">Долгота</string>
+    <string name="show_me">Показать</string>
 
 </resources>
